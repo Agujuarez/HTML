@@ -1,6 +1,6 @@
 # Practica HTML
 
-#### Página realizada solo con HTML, con logo, que muestra imagenes aleatorias de perros en tres tamaños diferentes 
+#### Página realizada solo con HTML, con logo, que muestra imagenes aleatorias de perros en tres tamaños diferentes haciendo click en los link.
 
 ---
 <!-- Imagenes del Programa -->
